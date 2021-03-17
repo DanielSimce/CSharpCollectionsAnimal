@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\CollectionsAnimal\CollectionsAnimal\bin\Debug\CollectionsAnimal.exe.config
+C:\Users\Daniel\source\repos\CollectionsAnimal\CollectionsAnimal\bin\Debug\CollectionsAnimal.exe
+C:\Users\Daniel\source\repos\CollectionsAnimal\CollectionsAnimal\bin\Debug\CollectionsAnimal.pdb
+C:\Users\Daniel\source\repos\CollectionsAnimal\CollectionsAnimal\obj\Debug\CollectionsAnimal.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\CollectionsAnimal\CollectionsAnimal\obj\Debug\CollectionsAnimal.exe
+C:\Users\Daniel\source\repos\CollectionsAnimal\CollectionsAnimal\obj\Debug\CollectionsAnimal.pdb
